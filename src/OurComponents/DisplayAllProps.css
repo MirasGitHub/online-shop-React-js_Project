@@ -1,0 +1,25 @@
+
+.allProps
+{
+  border: solid 2px gray;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.value
+{
+    font-weight: bold;
+}
+
+.key
+{
+    display: inline-block;
+    width: 100px;
+}
+
+.input
+{
+  display: inline-block;
+  width: 200px !important;
+}
